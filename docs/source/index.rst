@@ -20,7 +20,6 @@ Contents
    :maxdepth: 2
    :caption: Contents:
 
-   usage
    notebooks/tt
    api
    
