@@ -20,7 +20,7 @@ Contents
    :maxdepth: 2
 
    usage   
-   t
+   t.md
    api
    
 
