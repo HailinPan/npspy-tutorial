@@ -19,7 +19,7 @@ Contents
 .. toctree::
    :maxdepth: 2
 
-   usage   
+   usage.rst   
    t2
    test.ipynb
    api
