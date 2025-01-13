@@ -21,6 +21,7 @@ Contents
 
    usage   
    t.md
+   test.ipynb
    api
    
 
