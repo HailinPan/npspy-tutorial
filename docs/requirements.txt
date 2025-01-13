@@ -18,3 +18,4 @@ myst-parser
 pandoc
 recommonmark
 myst-nb
+jupyter_sphinx
