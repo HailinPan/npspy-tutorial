@@ -1,4 +1,4 @@
- Tutorial for npspy
+Tutorial for npspy
 =======================================
 
 This GitHub includes tutorial of npspy Python library.
