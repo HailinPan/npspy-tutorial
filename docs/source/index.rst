@@ -19,7 +19,7 @@ Contents
 .. toctree::
 
    usage
-   tt
+   tt.ipynb
    api
    
 
