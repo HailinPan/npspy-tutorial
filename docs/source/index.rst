@@ -21,7 +21,7 @@ Contents
 
    usage.rst   
    t2
-   test2.ipynb
+   t3.ipynb
    api
    
 
