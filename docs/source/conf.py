@@ -28,6 +28,8 @@ source_suffix = {
     '.ipynb': 'myst-nb',
 }
 
+nbsphinx_responsive_width = '100%'
+
 
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
