@@ -4,9 +4,9 @@ sphinx>=2.0.1
 sphinx-autodoc-typehints==1.17.0
 #nbsphinx-link
 ipython
-scanpydoc>=0.4.5
-furo>=2020.12.30b24
-typing_extensions; python_version < '3.8'
+#scanpydoc>=0.4.5
+#furo>=2020.12.30b24
+#typing_extensions; python_version < '3.8'
 sphinx_copybutton
 sphinx-gallery<0.10.1
 sphinx-remove-toctrees
