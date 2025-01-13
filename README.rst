@@ -1,8 +1,7 @@
-Template for the Read the Docs tutorial
+ Tutorial for npspy
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This GitHub includes tutorial of npspy Python library.
 
 Read the tutorial here:
 
