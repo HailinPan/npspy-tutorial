@@ -8,6 +8,8 @@ build:
 python:
   install:
     - requirements: docs/requirements.txt
+    - method: pip
+      path: git+https://github.com/HailinPan/npspy.git
 
 sphinx:
   configuration: docs/source/conf.py
