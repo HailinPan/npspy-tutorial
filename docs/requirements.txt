@@ -16,3 +16,4 @@ sphinx-autoapi
 gitpython
 myst-parser
 pandoc
+recommonmark
