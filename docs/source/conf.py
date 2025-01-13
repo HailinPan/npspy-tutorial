@@ -19,12 +19,13 @@ extensions = [
     'sphinx.ext.intersphinx',
     'nbsphinx',
     'recommonmark',
+    'myst_parser',
 ]
 
 source_suffix = {
     '.rst': 'restructuredtext',
-    '.md': 'markdown',
     '.ipynb': 'nbsphinx',
+    '.md': 'markdown',
 }
 
 intersphinx_mapping = {
