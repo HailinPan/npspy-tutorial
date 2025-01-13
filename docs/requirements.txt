@@ -16,5 +16,5 @@ sphinx-autoapi
 gitpython
 myst-parser
 pandoc
-#recommonmark
+recommonmark
 myst-nb
