@@ -18,9 +18,9 @@ Contents
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
-   notebooks/tt
+   usage   
+   t
    api
    
 
