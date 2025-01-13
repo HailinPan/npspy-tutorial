@@ -20,6 +20,5 @@ Contents
 
    usage
    api
-   usage
 
 
