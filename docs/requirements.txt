@@ -1,8 +1,8 @@
 sphinx_rtd_theme>=0.3.1
 sphinx>=2.0.1
-nbsphinx
+#nbsphinx
 sphinx-autodoc-typehints==1.17.0
-nbsphinx-link
+#nbsphinx-link
 ipython
 scanpydoc>=0.4.5
 furo>=2020.12.30b24
@@ -16,5 +16,5 @@ sphinx-autoapi
 gitpython
 myst-parser
 pandoc
-recommonmark
+#recommonmark
 myst-nb

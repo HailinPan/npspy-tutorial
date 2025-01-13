@@ -17,8 +17,8 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
-    'nbsphinx',
-    'recommonmark',
+    #'nbsphinx',
+    #'recommonmark',
     'myst_nb',
 ]
 
