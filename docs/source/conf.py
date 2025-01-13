@@ -29,7 +29,20 @@ source_suffix = {
     '.ipynb': 'myst-nb',
 }
 
-nbsphinx_responsive_width = '100%'
+myst_enable_extensions = [
+    "dollarmath",  # 解析美元 $ 和 $$ 封装的数学和 LaTeX 数学公式
+    "amsmath",     # 支持 amsmath 宏包的数学环境
+    "deflist",     # 定义列表
+    "colon_fence", # 使用冒号的代码围栏
+    "html_admonition", # HTML 警告
+    "html_image",  # HTML 图像
+    "smartquotes", # 智能引号
+    "replacements", # 替换
+    "linkify",     # 自动识别 bare 网址并添加超链接
+    "substitution", # 替换
+    "tasklist",    # 任务列表
+]
+
 
 html_context = {
     'css_files': [
