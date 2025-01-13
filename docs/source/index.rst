@@ -20,7 +20,7 @@ Contents
    :maxdepth: 2
 
    usage   
-   t.md
+   t2
    test.ipynb
    api
    
