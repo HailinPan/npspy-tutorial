@@ -30,6 +30,13 @@ source_suffix = {
 
 nbsphinx_responsive_width = '100%'
 
+html_context = {
+    'css_files': [
+        '_static/custom.css',  # 自定义 CSS 文件路径
+    ],
+}
+
+html_static_path = ['_static']
 
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
