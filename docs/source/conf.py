@@ -18,6 +18,7 @@ extensions = [
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
     'nbsphinx',
+    'recommonmark',
 ]
 
 intersphinx_mapping = {
