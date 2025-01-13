@@ -8,6 +8,8 @@ build:
 python:
   install:
     - requirements: docs/requirements.txt
+
+python:  
   dependencies:
     - pip
     - git+https://github.com/HailinPan/npspy.git
