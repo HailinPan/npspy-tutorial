@@ -20,7 +20,6 @@ extensions = [
     'nbsphinx',
     'recommonmark',
     'myst_nb',
-    'myst_parser',
 ]
 
 source_suffix = {
