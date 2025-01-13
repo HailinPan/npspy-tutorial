@@ -8,7 +8,10 @@ build:
 python:
   install:
     - requirements: docs/requirements.txt
-    - pip install git+https://github.com/HailinPan/npspy.git
+  dependencies:
+    - pip
+    - git+https://github.com/HailinPan/npspy.git
+
 
 sphinx:
   configuration: docs/source/conf.py
