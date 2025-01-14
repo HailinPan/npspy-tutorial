@@ -16,6 +16,6 @@ sphinx-autoapi
 gitpython
 myst-parser
 pandoc
-recommonmark
-myst-nb
-jupyter_sphinx
+#recommonmark
+#myst-nb
+#jupyter_sphinx
