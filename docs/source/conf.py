@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Npspy'
+copyright = '2023, BGI Research'
+author = 'Hailin Pan'
 
-release = '0.1'
-version = '0.1.0'
+release = '1.0.0'
+version = '1.0.0'
 
 # -- General configuration
 
