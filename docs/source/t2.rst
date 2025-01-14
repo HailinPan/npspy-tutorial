@@ -11,6 +11,19 @@ head
 
    这是一个note
 
+.. code-block:: bash
+   :linenos:
+   :emphasize-lines: 3,5
+
+   # 这是一个简单的Shell命令
+   echo "Hello, World!"
+
+   # 这是一个多行命令
+   ls -l | grep "example"
+   echo "This line will be highlighted"
+   echo "Another line"
+   echo "This line will also be highlighted"
+
 
 
 .. toctree::
