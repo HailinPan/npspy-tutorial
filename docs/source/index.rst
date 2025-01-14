@@ -1,17 +1,8 @@
-Welcome to Lumache's documentation!
+Welcome to Npspy's documentation!
 ===================================
 
-**npspy** (/n'pispai/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+In addition to mass spectrometry, protein sequences can also be sequenced through electrical signals. **Npspy** (/n'pispai/) is a Python library for processing protein electrical signals.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
 
 Contents
 --------
