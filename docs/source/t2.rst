@@ -1,6 +1,18 @@
 head
 ======
 
+.. code-block:: python
+   :linenos:
+
+   def hello_world():
+       print("Hello, World!")
+
+.. note::
+
+   这是一个note
+
+
+
 .. toctree::
    :maxdepth: 2
    :caption: Cont
