@@ -18,16 +18,16 @@ extensions = [
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
     'nbsphinx',
-    'recommonmark',
-    'myst_nb',
-    'jupyter_sphinx',
+    #'recommonmark',
+    #'myst_nb',
+    #'jupyter_sphinx',
 ]
 
-source_suffix = {
-    '.rst': 'restructuredtext',
-    '.md': 'markdown',
-    '.ipynb': 'myst-nb',
-}
+#source_suffix = {
+#    '.rst': 'restructuredtext',
+#    '.md': 'markdown',
+#    '.ipynb': 'myst-nb',
+#}
 
 
 intersphinx_mapping = {

@@ -9,11 +9,5 @@ python:
   install:
     - requirements: docs/requirements.txt
 
-python:  
-  dependencies:
-    - pip
-    - git+https://github.com/HailinPan/npspy.git
-
-
 sphinx:
   configuration: docs/source/conf.py
