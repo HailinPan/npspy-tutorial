@@ -23,8 +23,13 @@ extensions = [
 
 nbsphinx_execute = 'never'
 
-nbsphinx_input_prompt = 'In2:'
+nbsphinx_input_prompt = 'In [%s]:'
+nbsphinx_output_prompt = 'Out [%s]:'
 
+html_static_path = ['_static']
+html_css_files = [
+    'custom.css',
+]
 
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
