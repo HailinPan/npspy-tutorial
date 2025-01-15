@@ -1,4 +1,4 @@
 
-.input_prompt, .output_prompt {
+div.input_area .prompt, div.output_area .prompt {
     display: none;
 }
