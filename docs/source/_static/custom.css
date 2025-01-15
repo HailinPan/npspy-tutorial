@@ -1,4 +1,4 @@
 
-div.nbinput div.prompt {
-    display: none;
-}
+#div.nbinput div.prompt {
+#    display: none;
+#}
