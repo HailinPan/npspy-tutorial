@@ -23,7 +23,7 @@ extensions = [
 
 nbsphinx_execute = 'never'
 
-nbsphinx_input_prompt = 'In2 [%s]:'
+nbsphinx_input_prompt = 'In2:'
 
 
 intersphinx_mapping = {
