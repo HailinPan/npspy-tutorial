@@ -23,8 +23,8 @@ extensions = [
 
 nbsphinx_execute = 'never'
 
-nbsphinx_input_prompt = 'In [%s]:'
-nbsphinx_output_prompt = 'Out [%s]:'
+nbsphinx_input_prompt = 'In2 [%s]:'
+nbsphinx_output_prompt = 'Out2 [%s]:'
 
 html_static_path = ['_static']
 html_css_files = [
