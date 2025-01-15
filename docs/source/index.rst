@@ -15,6 +15,5 @@ Contents
    usage.rst   
    t2
    t3.ipynb
-   api
    
 
