@@ -23,6 +23,9 @@ extensions = [
 
 nbsphinx_execute = 'never'
 
+nbsphinx_input_prompt = 'In2 [%s]:'
+
+
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
     'sphinx': ('https://www.sphinx-doc.org/en/master/', None),
