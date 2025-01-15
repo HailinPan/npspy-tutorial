@@ -10,8 +10,7 @@ To use Lumache, first install it using pip:
 
 .. code-block:: console
 
-   (.venv) $ pip
-   conda ...
+   $ conda ...
    $ pip
 
 Creating recipes

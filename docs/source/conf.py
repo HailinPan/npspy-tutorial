@@ -21,6 +21,8 @@ extensions = [
     'sphinx_copybutton',
 ]
 
+nbsphinx_input_prompt = ''
+nbsphinx_output_prompt = ''
 
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
